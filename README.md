@@ -11,14 +11,8 @@ sudo -i    --> swith root user
 apt update  --> to update Operating system
 
 mkdir <directory name>    --> to creat directory 
-
  
- ## file create methos
- 
- ### method: vi <filename>  
-  i --
- 
-*   eascpe+wq:!
+ * vi filename.txt   --> to create filename
  
  * tail -n 2 filename.txt   --> to print last two lines
  
