@@ -20,4 +20,4 @@ sudo -i    --> swith root user
 
 apt update  --> to update Operating system
 
-mkdir <directory name> to creat directi
+mkdir <directory name>    --> to creat directory 
