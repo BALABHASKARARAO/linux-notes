@@ -1,17 +1,7 @@
 # linux notes
 
- #  root user
-
-$  non root user
-
-root user
-
-
-ubuntu --> non root user
-
-
-root--> user --.> default
-
+  *   when we see  "#" that use is  "root user"
+* when we see  "$" that use is  "non root user"
 
 non root user also perfrom like same root user if we provide
 
