@@ -19,3 +19,9 @@ mkdir <directory name>    --> to creat directory
   i --
  
 *   eascpe+wq:!
+ 
+ * tail -n 2 filename.txt   --> to print last two lines
+ 
+ * head -n 2 filename.txt   --> to print "top" two lines
+ 
+ * ps -ef | grep ubuntu
