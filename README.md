@@ -21,3 +21,11 @@ sudo -i    --> swith root user
 apt update  --> to update Operating system
 
 mkdir <directory name>    --> to creat directory 
+
+ 
+ ## file create methos
+ 
+ ### method: vi <filename>  
+  i --
+ 
+*   eascpe+wq:!
