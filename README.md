@@ -18,6 +18,6 @@ non root user also perfrom like same root user if we provide
 sudo -i    --> swith root user
 
 
-apt update
+apt update  --> to update Operating system
 
 mkdir <directory name> to creat directi
